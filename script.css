@@ -1,0 +1,43 @@
+body {
+  background-image: url("images/undraw_treasure_of9i.svg");
+  background-repeat: repeat-y;
+}
+textarea {
+  width: 50%;
+  height: 6rem;
+  border: 0.1rem solid grey;
+  border-radius: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: transparent;
+}
+#output-box {
+  border: 0.1rem solid grey;
+  width: 50%;
+  height: 6rem;
+  border-radius: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+h1 {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+#trans-button {
+  padding: 1rem;
+  border-radius: 8px;
+  border: 0.1rem solid grey;
+  background-color: #3f3d56;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
